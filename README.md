@@ -34,9 +34,10 @@ Here are my project that I have done or doing in my last semester.
 Project- Game Design (2D illustration, C# with ChatGPT)
 This is my most favourite subject so far that is both difficult and more encouraging for me. The projects idea come from my childhood memories. 
 You can check the file for my Game Design with the filename ("GameDesign.rar").
-<img width="96" height="53" alt="스크린샷 2025-09-26 220234" src="https://github.com/user-attachments/assets/c33cfdb4-84b4-4108-a938-489ab3791cde" />
-<img width="96" height="54" alt="Screenshot 2025-10-02 233310" src="https://github.com/user-attachments/assets/aaef4887-ce79-4163-a675-5e49ae7c75d5" />
-<img width="96" height="51" alt="Screenshot 2025-10-02 233319" src="https://github.com/user-attachments/assets/3d50eb52-824e-4e26-92ac-92a129d322d8" />
+
+<img width="192" height="107" alt="스크린샷 2025-09-26 220234" src="https://github.com/user-attachments/assets/c33cfdb4-84b4-4108-a938-489ab3791cde" />
+<img width="192" height="108" alt="Screenshot 2025-10-02 233310" src="https://github.com/user-attachments/assets/aaef4887-ce79-4163-a675-5e49ae7c75d5" />
+<img width="192" height="101" alt="Screenshot 2025-10-02 233319" src="https://github.com/user-attachments/assets/3d50eb52-824e-4e26-92ac-92a129d322d8" />
 
 
 
