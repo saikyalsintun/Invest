@@ -35,9 +35,10 @@ Project- Game Design (2D illustration, C# with ChatGPT)
 This is my most favourite subject so far that is both difficult and more encouraging for me. The projects idea come from my childhood memories. 
 You can check the file for my Game Design with the filename ("GameDesign.rar").
 
-<img width="521" height="381" alt="屏幕截图 2025-09-12 205314" src="https://github.com/user-attachments/assets/a5dcdb0a-2b1f-452d-a7d6-d84e9ae90b45" />
-<img width="517" height="298" alt="스크린샷 2025-09-26 220234" src="https://github.com/user-attachments/assets/94624ac8-3069-419f-adab-230a93c7ed1d" />
-
+<img width="321" height="181" alt="屏幕截图 2025-09-12 205314" src="https://github.com/user-attachments/assets/a5dcdb0a-2b1f-452d-a7d6-d84e9ae90b45" />
+<img width="317" height="98" alt="스크린샷 2025-09-26 220234" src="https://github.com/user-attachments/assets/94624ac8-3069-419f-adab-230a93c7ed1d" />
+<img width="396" height="134" alt="Screenshot 2025-10-02 233310" src="https://github.com/user-attachments/assets/6e90018e-545e-4f7b-a83c-8b62eb51d921" />
+<img width="919" height="110" alt="Screenshot 2025-10-02 233319" src="https://github.com/user-attachments/assets/c7bdf90c-74f7-4587-a615-c406a04c71aa" />
 
 
 Project - Machine Learning (KNN Model Classification, Regression and Correlation)
