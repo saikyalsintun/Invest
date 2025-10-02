@@ -6,7 +6,7 @@ Position: Team Lead
 
 My Biggest UIUX project of all time
 This project is for our school CIMSO hackathon. In this project, I have take charge as team leader and also responsible in most aspect. Especially in this UIUX prototype.
-
+You can also check our fully developed mobile app by downloading our rar file name ("cimso_development.rar")
 
 https://www.figma.com/design/L4RHHikuwQI9su2VdE5Uff/Mobile-Development?node-id=0-1&t=UVTZUq1tp2ixNKxB-1
 
