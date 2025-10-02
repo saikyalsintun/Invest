@@ -9,13 +9,13 @@ This project is for our school CIMSO hackathon. In this project, I have take cha
 
 https://www.figma.com/design/L4RHHikuwQI9su2VdE5Uff/Mobile-Development?node-id=0-1&t=UVTZUq1tp2ixNKxB-1
 
-Projet 2: System Design Analysis - Case study of user experience in shopping website
+## Projet 2: System Design Analysis - Case study of user experience in shopping website
 Position: Team Lead
 This project lead me to focus more on website design and explore more on the customer and admin part of the website. 
 
 https://www.figma.com/design/xpX4ZoFEYYL7Jj1ciVgzRN/SAD--MockUp-?node-id=0-1&p=f&t=aY5uEvOMZOoMyipc-0
 
-Project 3: User Experience and User Interface Documentation
+## Project 3: User Experience and User Interface Documentation
 Position: UIUX
 You can check the file for this in my UIUX project folder with the file name ("HealthCare.pdf")
 This project is focus more on the UIUX research with the intention of understanding customer or user bahavior. 
@@ -27,11 +27,11 @@ https://www.figma.com/design/kK0oSVQ353oLGZYGAbihwl/Website?node-id=0-1&p=f&t=xg
 
 # My Current Project
 
-Project Summary
+## Project Summary
 The last semester as a univerisity student almost arrived to it final stop, I been trying to find out more technical path. But the things I find the most attach to is always data analysis and UIUX.
 Here are my project that I have done or doing in my last semester. 
 
-Project- Game Design (2D illustration, C# with ChatGPT)
+## Project- Game Design (2D illustration, C# with ChatGPT)
 This is my most favourite subject so far that is both difficult and more encouraging for me. The projects idea come from my childhood memories. 
 You can check the file for my Game Design with the filename ("GameDesign.rar").
 
@@ -41,6 +41,6 @@ You can check the file for my Game Design with the filename ("GameDesign.rar").
 
 
 
-Project - Machine Learning (KNN Model Classification, Regression and Correlation)
+## Project - Machine Learning (KNN Model Classification, Regression and Correlation)
 My school project that we write report on. The project has two files namely: Iris_Classification and Regression.
 You can find the file for my Machine Learning report with filename ("Data Preprocessing for Machine Learning.doc") and ("IrisResearch.doc").
