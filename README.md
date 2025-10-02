@@ -26,6 +26,39 @@ This project is focus more on the UIUX research with the intention of understand
 https://www.figma.com/design/kK0oSVQ353oLGZYGAbihwl/Website?node-id=0-1&p=f&t=xgt2WXU7aVv6uzGT-0
 
 
+# My Portfolio Regarding Data Analyst as a flexible tech intern
+
+## Customer 1000 - Defining the Regular and Irregular Data with raw Data
+
+Business Questions:
+How many subscription in a year?
+Top 10 and Bottom 10 Country that has subscribe
+Country with highest Subscription and the total number of subscriber
+The year that has the most subscriber
+
+<img width="192" height="63" alt="Dashboard" src="https://github.com/user-attachments/assets/29a95875-e634-4251-bcf0-70d5f2448747" />
+<img width="192" height="141" alt="VlookUp" src="https://github.com/user-attachments/assets/ed58ee57-75ac-441a-b6ce-8577408b139e" />
+<img width="192" height="38" alt="Top 10 Customers" src="https://github.com/user-attachments/assets/2cab0d08-d303-4b8f-a768-fcaa03f74651" />
+
+
+
+
+## Managing Field Trip Budget (Chinese)
+
+Business Questions:
+The total expense regarding the last 10 years field trips.
+Which year has the highest expense use for field trips.
+Which department has the highest expense for field trips.
+Make the Description Analysis for the field trips budget. (Average, Max, Min for Field trips)
+
+<img width="192" height="109" alt="Screenshot 2025-10-02 233528" src="https://github.com/user-attachments/assets/00dd0721-50d6-4b3a-a5b3-6575aa683652" />
+<img width="192" height="109" alt="Screenshot 2025-10-02 233539" src="https://github.com/user-attachments/assets/b15c7604-639d-48a3-a163-d73645d861ca" />
+
+
+
+
+
+
 
 
 # My Current Project
