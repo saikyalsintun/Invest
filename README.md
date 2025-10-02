@@ -1,4 +1,4 @@
-# My Portfolio Regarding Data Analysis and UIUX as a flexible tech intern
+# My Portfolio Regarding UIUX as a flexible tech intern
 
 
 Project 1: CIMSO Hackathon Golf Membership Application
