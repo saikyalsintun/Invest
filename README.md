@@ -1,7 +1,7 @@
 # My Portfolio Regarding UIUX as a flexible tech intern
 
 
-Project 1: CIMSO Hackathon Golf Membership Application
+## Project 1: CIMSO Hackathon Golf Membership Application
 Position: Team Lead
 My Biggest UIUX project of all time
 This project is for our school CIMSO hackathon. In this project, I have take charge as team leader and also responsible in most aspect. Especially in this UIUX prototype.
