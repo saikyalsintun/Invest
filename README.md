@@ -35,9 +35,8 @@ Project- Game Design (2D illustration, C# with ChatGPT)
 This is my most favourite subject so far that is both difficult and more encouraging for me. The projects idea come from my childhood memories. 
 You can check the file for my Game Design with the filename ("GameDesign.rar").
 
-![game-Recovered](https://github.com/user-attachments/assets/fa63ea40-6769-4fba-9cb7-da2fa926cdc3)
-<img width="821" height="681" alt="屏幕截图 2025-09-12 205314" src="https://github.com/user-attachments/assets/a5dcdb0a-2b1f-452d-a7d6-d84e9ae90b45" />
-<img width="717" height="398" alt="스크린샷 2025-09-26 220234" src="https://github.com/user-attachments/assets/94624ac8-3069-419f-adab-230a93c7ed1d" />
+<img width="521" height="381" alt="屏幕截图 2025-09-12 205314" src="https://github.com/user-attachments/assets/a5dcdb0a-2b1f-452d-a7d6-d84e9ae90b45" />
+<img width="517" height="298" alt="스크린샷 2025-09-26 220234" src="https://github.com/user-attachments/assets/94624ac8-3069-419f-adab-230a93c7ed1d" />
 
 
 
